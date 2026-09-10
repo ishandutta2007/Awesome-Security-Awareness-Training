@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Awareness-Training/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Security-Awareness-Training?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Awareness-Training/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Security-Awareness-Training?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Awareness-Training/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Security-Awareness-Training?style=flat-square&color=green" alt="License"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Awareness-Training/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Awareness-Training/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Security-Awareness-Training?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Awareness-Training/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Security-Awareness-Training?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Awareness-Training/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Security-Awareness-Training?style=flat-square&color=green" alt="License"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Awareness-Training/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated index of top Security Awareness Training (SAT) platforms, Human Risk Management (HRM) suites, simulated phishing tools, microlearning modules, and open-source campaign frameworks.**
 
@@ -50,49 +50,49 @@
 
 *Open-source phishing frameworks, social engineering simulators, and educational security toolkits. Sorted descending by GitHub stargazers count.*
 
-- **[Evilginx2](https://github.com/kgretzky/evilginx2)** [![GitHub stars](https://img.shields.io/github/stars/kgretzky/evilginx2?style=social&color=white)](https://github.com/kgretzky/evilginx2/stargazers)  
+- **[Evilginx2](https://github.com/kgretzky/evilginx2)** [![GitHub_Stars](https://img.shields.io/github/stars/kgretzky/evilginx2?style=social&color=white)](https://github.com/kgretzky/evilginx2/stargazers)  
   ⚡ Standalone man-in-the-middle reverse proxy framework used to simulate sophisticated phishing attacks bypass 2FA / MFA session tokens for authorized awareness demonstration.
 
-- **[Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)** [![GitHub stars](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=social&color=white)](https://github.com/trustedsec/social-engineer-toolkit/stargazers)  
+- **[Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)** [![GitHub_Stars](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=social&color=white)](https://github.com/trustedsec/social-engineer-toolkit/stargazers)  
   🧰 The premier open-source framework for social engineering simulations, custom spear-phishing attack vectors, credential harvesting, and awareness exercises.
 
-- **[Gophish](https://github.com/gophish/gophish)** [![GitHub stars](https://img.shields.io/github/stars/gophish/gophish?style=social&color=white)](https://github.com/gophish/gophish/stargazers)  
+- **[Gophish](https://github.com/gophish/gophish)** [![GitHub_Stars](https://img.shields.io/github/stars/gophish/gophish?style=social&color=white)](https://github.com/gophish/gophish/stargazers)  
   🎣 The gold standard open-source phishing toolkit — self-hosted platform to create realistic email campaigns, schedule deliveries, and track opens/clicks/credentials in real-time.
 
-- **[Modlishka](https://github.com/drk1wi/Modlishka)** [![GitHub stars](https://img.shields.io/github/stars/drk1wi/Modlishka?style=social&color=white)](https://github.com/drk1wi/Modlishka/stargazers)  
+- **[Modlishka](https://github.com/drk1wi/Modlishka)** [![GitHub_Stars](https://img.shields.io/github/stars/drk1wi/Modlishka?style=social&color=white)](https://github.com/drk1wi/Modlishka/stargazers)  
   🔄 Modern, flexible reverse proxy that automates 2FA bypass and credential harvesting simulations to demonstrate modern email security vulnerabilities to staff.
 
-- **[King Phisher](https://github.com/securestate/king-phisher)** [![GitHub stars](https://img.shields.io/github/stars/securestate/king-phisher?style=social&color=white)](https://github.com/securestate/king-phisher/stargazers)  
+- **[King Phisher](https://github.com/securestate/king-phisher)** [![GitHub_Stars](https://img.shields.io/github/stars/securestate/king-phisher?style=social&color=white)](https://github.com/securestate/king-phisher/stargazers)  
   👑 Flexible phishing campaign architecture featuring multi-user collaboration, granular reporting, and customizable simulation templates for security awareness teams.
 
-- **[Muraena](https://github.com/muraenateam/muraena)** [![GitHub stars](https://img.shields.io/github/stars/muraenateam/muraena?style=social&color=white)](https://github.com/muraenateam/muraena/stargazers)  
+- **[Muraena](https://github.com/muraenateam/muraena)** [![GitHub_Stars](https://img.shields.io/github/stars/muraenateam/muraena?style=social&color=white)](https://github.com/muraenateam/muraena/stargazers)  
   🦈 Ultra-fast reverse proxy designed for automated phishing simulations and real-time credential proxy verification in controlled organizational testing.
 
-- **[BEAR-C2](https://github.com/S3N4T0R-0X0/BEAR-C2)** [![GitHub stars](https://img.shields.io/github/stars/S3N4T0R-0X0/BEAR-C2?style=social&color=white)](https://github.com/S3N4T0R-0X0/BEAR-C2/stargazers)  
+- **[BEAR-C2](https://github.com/S3N4T0R-0X0/BEAR-C2)** [![GitHub_Stars](https://img.shields.io/github/stars/S3N4T0R-0X0/BEAR-C2?style=social&color=white)](https://github.com/S3N4T0R-0X0/BEAR-C2/stargazers)  
   🐻 Adversary simulation and phishing emulation framework modeling real-world Advanced Persistent Threat (APT) tactics, techniques, and procedures (TTPs).
 
-- **[Facad1ng](https://github.com/spyboy-productions/Facad1ng)** [![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/Facad1ng?style=social&color=white)](https://github.com/spyboy-productions/Facad1ng/stargazers)  
+- **[Facad1ng](https://github.com/spyboy-productions/Facad1ng)** [![GitHub_Stars](https://img.shields.io/github/stars/spyboy-productions/Facad1ng?style=social&color=white)](https://github.com/spyboy-productions/Facad1ng/stargazers)  
   🔍 Open-source URL masking and link manipulation analysis tool for demonstrating deceptive adversary link structures during employee security training.
 
-- **[69phisher](https://github.com/Akshay-Arjun/69phisher)** [![GitHub stars](https://img.shields.io/github/stars/Akshay-Arjun/69phisher?style=social&color=white)](https://github.com/Akshay-Arjun/69phisher/stargazers)  
+- **[69phisher](https://github.com/Akshay-Arjun/69phisher)** [![GitHub_Stars](https://img.shields.io/github/stars/Akshay-Arjun/69phisher?style=social&color=white)](https://github.com/Akshay-Arjun/69phisher/stargazers)  
   🔱 Lightweight, automated phishing simulation page generator and learning testbed designed for security beginners and internal education.
 
-- **[PhishingClub](https://github.com/phishingclub/phishingclub)** [![GitHub stars](https://img.shields.io/github/stars/phishingclub/phishingclub?style=social&color=white)](https://github.com/phishingclub/phishingclub/stargazers)  
+- **[PhishingClub](https://github.com/phishingclub/phishingclub)** [![GitHub_Stars](https://img.shields.io/github/stars/phishingclub/phishingclub?style=social&color=white)](https://github.com/phishingclub/phishingclub/stargazers)  
   🎯 Simulation, training, and red-team phishing framework built for streamlined campaign execution and learner tracking.
 
-- **[Phishing Simulation](https://github.com/jenyraval/Phishing-Simulation)** [![GitHub stars](https://img.shields.io/github/stars/jenyraval/Phishing-Simulation?style=social&color=white)](https://github.com/jenyraval/Phishing-Simulation/stargazers)  
+- **[Phishing Simulation](https://github.com/jenyraval/Phishing-Simulation)** [![GitHub_Stars](https://img.shields.io/github/stars/jenyraval/Phishing-Simulation?style=social&color=white)](https://github.com/jenyraval/Phishing-Simulation/stargazers)  
   📊 Educational simulation tool combining customized phishing scenarios with interactive tutorials and post-test assessments.
 
-- **[WhiteHat](https://github.com/urcuqui/WhiteHat)** [![GitHub stars](https://img.shields.io/github/stars/urcuqui/WhiteHat?style=social&color=white)](https://github.com/urcuqui/WhiteHat/stargazers)  
+- **[WhiteHat](https://github.com/urcuqui/WhiteHat)** [![GitHub_Stars](https://img.shields.io/github/stars/urcuqui/WhiteHat?style=social&color=white)](https://github.com/urcuqui/WhiteHat/stargazers)  
   🎩 AI-powered cybersecurity research and phishing detection toolkit featuring adversarial simulations and defensive model benchmarking.
 
-- **[GoPhish Training Templates](https://github.com/HailBytes/gophish-training-templates)** [![GitHub stars](https://img.shields.io/github/stars/HailBytes/gophish-training-templates?style=social&color=white)](https://github.com/HailBytes/gophish-training-templates/stargazers)  
+- **[GoPhish Training Templates](https://github.com/HailBytes/gophish-training-templates)** [![GitHub_Stars](https://img.shields.io/github/stars/HailBytes/gophish-training-templates?style=social&color=white)](https://github.com/HailBytes/gophish-training-templates/stargazers)  
   📧 Ready-to-deploy enterprise email templates and landing pages crafted for GoPhish employee awareness campaigns.
 
-- **[Mimic](https://github.com/0x4meliorate/Mimic)** [![GitHub stars](https://img.shields.io/github/stars/0x4meliorate/Mimic?style=social&color=white)](https://github.com/0x4meliorate/Mimic/stargazers)  
+- **[Mimic](https://github.com/0x4meliorate/Mimic)** [![GitHub_Stars](https://img.shields.io/github/stars/0x4meliorate/Mimic?style=social&color=white)](https://github.com/0x4meliorate/Mimic/stargazers)  
   🎭 Single-script Shadow DOM / Browser-in-the-Browser (BitB) simulation library for demonstrating novel phishing techniques in awareness labs.
 
-- **[G-SIM](https://github.com/5urg3on/G-SIM)** [![GitHub stars](https://img.shields.io/github/stars/5urg3on/G-SIM?style=social&color=white)](https://github.com/5urg3on/G-SIM/stargazers)  
+- **[G-SIM](https://github.com/5urg3on/G-SIM)** [![GitHub_Stars](https://img.shields.io/github/stars/5urg3on/G-SIM?style=social&color=white)](https://github.com/5urg3on/G-SIM/stargazers)  
   ⚙️ Automation and cloud provisioning helper designed to simplify authorized GoPhish instance deployments and campaign scheduling.
 
 ---
