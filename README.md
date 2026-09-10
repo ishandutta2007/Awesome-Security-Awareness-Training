@@ -28,75 +28,25 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
-
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
-
-
 
 ## SaaS/Hosted Platforms
 
-- **[KnowBe4](https://www.knowbe4.com/)**  
-
-  Largest and most widely deployed security awareness platform — extensive content library, simulated phishing, human risk management, and compliance reporting.
-
-
-
-- **[Hoxhunt](https://www.hoxhunt.com/)**  
-
-  Behavior-change focused platform with AI-personalized phishing simulations, high engagement, gamification, and strong reporting-rate metrics.
-
-
-
-- **[Living Security](https://www.livingsecurity.com/)**  
-
-  Human risk management and awareness platform emphasizing measurable behavior change and continuous training.
-
-
-
-- **[Usecure](https://www.usecure.io/)**  
-
-  Security awareness and phishing simulation platform aimed at practical, ongoing employee education.
-
-
-
-- **[Cofense PhishMe](https://cofense.com/)**  
-
-  Phishing simulation and reporting platform tightly linked to Cofense’s phishing detection and response capabilities.
-
-
-
-- **[Proofpoint Security Awareness (ZenGuide)](https://www.proofpoint.com/)**  
-
-  Awareness and training offerings integrated with Proofpoint’s email security and threat intelligence ecosystem.
-
-
-
-- **[Infosec IQ](https://www.infosecinstitute.com/iq/)**  
-
-  Security awareness training platform with a large content library, assessments, and phishing simulation features.
-
-
-
-- **[Hook Security](https://www.hooksecurity.co/)**  
-
-  Phishing simulation and awareness training focused on realistic campaigns and measurable results.
-
-
-
-- **[Ninjio](https://ninjio.com/)**  
-
-  Engaging, story-driven security awareness video training designed for high completion and retention.
-
-
-
-- **[MetaCompliance](https://www.metacompliance.com/)**  
-
-  Compliance and security awareness platform popular for policy management, training, and regulatory attestation.
+| Platform / Product | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[KnowBe4](https://www.knowbe4.com/)** | Enterprise security awareness platform with simulated phishing, human risk management (HRM), compliance modules, and extensive interactive training. | **$1.80 / user / month** ($21.60/user/yr billed annually for Silver tier, 25–50 seats; min. 25 users) | **Free Phishing Security Test** (up to 100 users, single campaign) + free assessment tools (RanSim, Weak Password Test); **30-day trial** on select modules. |
+| **[Hoxhunt](https://www.hoxhunt.com/)** | AI-personalized, gamified behavior-change platform with adaptive phishing simulations, automated rewards, and real-time response telemetry. | **~$32.00 / user / year** (~$2.70/user/mo for mid-market plans; enterprise packages start near $10,000/yr) | **14 to 30-day guided pilot / PoC trial** for qualified enterprise organizations; no permanent free tier. |
+| **[Living Security](https://www.livingsecurity.com/)** | Human Risk Management (HRM) platform providing science-backed training, gamified CyberEscape rooms, and cross-tool risk analytics (Unify). | **~$30.00 / user / year** (training tier; full enterprise HRM subscriptions typically start at $25,000/yr) | **Interactive demo environment** (hands-on risk analytics via "Livvy" AI) + free standalone **"Campaign in a Box"** training content; no permanent free tier. |
+| **[Usecure](https://www.usecure.io/)** | Modular security awareness platform including auto-enrolling training (uLearn), phishing simulation (uPhish), policy management (uPolicy), and breach monitoring (uBreach). | **£1.50 / user / month** (~$1.95/user/mo or $23.40/user/yr; flexible monthly/annual billing) | **14-day full-access free trial** across all core modules (no credit card required); free NFR license for MSPs. |
+| **[Cofense PhishMe](https://cofense.com/)** | Phishing simulation and threat reporting solution integrated with crowdsourced threat intelligence and automated incident response (Cofense Triage). | **~$30.00 / user / year** (PhishMe + Triage bundle; base high-volume tiers start ~$10.00–$12.00/user/yr) | **Custom guided proof-of-concept trial** (approx. 14–30 days via sales consultation) + free public access to Cofense Phishing Threat Database; no permanent free tier. |
+| **[Proofpoint Security Awareness (ZenGuide)](https://www.proofpoint.com/)** | Enterprise awareness training and phishing simulation suite integrated with Proofpoint email security telemetry and Targeted Attack Protection (TAP). | **~$1.50 / user / month** (~$18.00/user/yr billed annually for entry tier; volume-tiered) | **30-day proof-of-concept evaluation** via sales consultation + free one-time **People Risk Assessment** diagnostic. |
+| **[Infosec IQ](https://www.infosecinstitute.com/iq/)** | Security awareness and anti-phishing platform offering 2,000+ training modules, adaptive learning pathways, and learner assessment dashboards. | **~$3.50 / user / year** (annual entry contracts typically start around $1,500/year minimum) | **Free Phishing Risk Test** (1 simulated phishing campaign for up to 100 learners) + **7-day free trial** for Infosec Skills content library. |
+| **[Hook Security](https://www.hooksecurity.co/)** | Non-punitive, "psychological security" awareness training featuring humor-driven microlearning videos and realistic phishing campaigns. | **$2.00 / user / month** ($20.00/user/yr for 50+ users; flat $999/yr for <50 users; starter plans from $39/mo) | **14-day free trial** with access to simulation campaigns and microlearning modules; free product demo. |
+| **[Ninjio](https://ninjio.com/)** | Microlearning platform featuring 3–4 minute animated, story-driven episodes based on actual security incidents, paired with simulated phishing tests (NINJIO PHISH). | **~$1.50 / user / month** (~$15.00–$35.00/user/yr depending on volume and add-ons) | **Free 3-episode trial pack** (full access to 3 animated episodes and quiz assessments) + guided product demo; no permanent free tier. |
+| **[MetaCompliance](https://www.metacompliance.com/)** | Comprehensive European compliance, cyber security e-learning, automated policy management, and simulated phishing platform. | **~$10.00 / user / year** (~£8.00–£22.49/user/yr based on volume and tier) | **14-day free trial** (limited to 10 users and 1 administrator, full feature testing) + free 30-minute interactive demo. |
 
 
 
